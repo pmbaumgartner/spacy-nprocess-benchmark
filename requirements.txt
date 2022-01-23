@@ -1,0 +1,8 @@
+datasets==1.18.0
+loguru==0.5.3
+spacy==3.2.1
+typer==0.4.0
+tqdm==4.62.3
+hiplot==0.1.32
+pandas==1.3.5
+jupyter==1.0.0
